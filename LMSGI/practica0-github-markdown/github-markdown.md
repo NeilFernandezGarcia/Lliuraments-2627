@@ -40,6 +40,8 @@ Atenció: l’incompliment de les instruccions de lliurament impliquen la NO cor
 
 |   |  0 punts | 0,5 punts | 1 punt|
 | ------------- | ------------- | ----------- | ---------- |
-| Introducció als llenguatges de marques | Content Cell  |Content Cell |Content Cell|
-| Content Cell  | Content Cell  |
+| Introducció als llenguatges de marques | No s’ha realitzat o conté errors molt greus.  |Explicació superficial o amb errors lleus. |Explicació clara, detallada i correcta.
+|Explicació del llenguatge i regles d’ús|No s’ha realitzat o conté errors molt greus.|Explicació superficial o amb errors lleus.|Explicació clara, detallada i correcta.|
+|Cas d’ús (no s’adapta)|No s’ha realitzat o conté errors molt greus.|Explicació superficial o amb errors lleus.|Explicació clara, detallada i correcta.|
+
 
