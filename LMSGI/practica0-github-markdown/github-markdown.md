@@ -42,6 +42,13 @@ Atenció: l’incompliment de les instruccions de lliurament impliquen la NO cor
 | ------------- | ------------- | ----------- | ---------- |
 | Introducció als llenguatges de marques | No s’ha realitzat o conté errors molt greus.  |Explicació superficial o amb errors lleus. |Explicació clara, detallada i correcta.
 |Explicació del llenguatge i regles d’ús|No s’ha realitzat o conté errors molt greus.|Explicació superficial o amb errors lleus.|Explicació clara, detallada i correcta.|
+|Cas d’ús (si s’adapta)|No s’ha realitzat o conté errors molt greus.|Explicació superficial o amb errors lleus.|Explicació clara, detallada i correcta.|
 |Cas d’ús (no s’adapta)|No s’ha realitzat o conté errors molt greus.|Explicació superficial o amb errors lleus.|Explicació clara, detallada i correcta.|
+|Exemple|No s’ha realitzat o conté errors molt greus.|Explicació superficial o amb errors lleus.|Explicació clara, detallada i correcta.|
+|Classificació|No s’ha realitzat o conté errors molt greus.|Explicació superficial o amb errors lleus.|Explicació clara, detallada i correcta.|
+|Justificació llenguatge de marques.|No s’ha realitzat o conté errors molt greus.|Explicació superficial o amb errors lleus.|Explicació clara, detallada i correcta.|
+|Estil de les transparències|No s’ha realitzat o conté erros greus.|Pobre, poc treballat o es nota que s’ha fet a correcuita.|Correcte, agradable a la vista i homogeni.|
+|Temps|Menys de 3 minuts o més de 7 minuts.|Menys de 4 minuts o més de 6 minuts.|Exactament o aproximadament 5 minuts (2:30 per alumne).|
+|Presència sobre l’escenari|No ha presentat|Li costa expressar-se en públic i mostra dificultats per fer-se entendre.|S’expressa amb naturalitat i claredat. Se’l veu còmode quan parla en públic.|
 
 
