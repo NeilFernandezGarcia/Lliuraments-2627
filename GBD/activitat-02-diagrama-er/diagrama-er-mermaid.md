@@ -35,7 +35,7 @@ erDiagram
         int Dany
         int Cooldown
         string Tipus "Not null"
-{
+}
 ```
 ## Diagrama Item
 ``` mermaid
