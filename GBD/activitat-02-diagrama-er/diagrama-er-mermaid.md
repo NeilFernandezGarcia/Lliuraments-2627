@@ -1,4 +1,73 @@
-# Diagrama sencer
+# Diagrama Mermaid
+## Diagrama Personatje
+``` mermaid
+erDiagram
+    PERSONATJE {
+        string DNI PK
+        string Nom "Not Null"
+        string Cognom
+        int Vida
+        int Força
+        int Carisma
+        int Agilitat
+    }
+```
+## Diagrama Mascota
+``` mermaid
+erDiagram
+    PERSONATJE {
+        string DNI PK
+        string Nom "Not Null"
+        string Cognom
+        int Vida
+        int Força
+        int Carisma
+        int Agilitat
+    }
+```
+## Diagrama Habilitat
+``` mermaid
+erDiagram
+    HABILITAT {
+        int Codi PK
+        string Nom "Not null"
+        int Cost
+        int Dany
+        int Cooldown
+        string Tipus "Not null"
+```
+## Diagrama Item
+``` mermaid
+erDiagram
+    ITEM {
+        int Codi PK
+        string Nom "Not null"
+        string Equipable
+        string Tipus "Not null"
+        string Comerciable "Not null"
+        int Pes "Not null"
+        string Qualitat "Not null"
+        int Mesura-X "Not null"
+        int Mesura-Y "Not null"
+        int Mesura-Z "Not null"
+    }
+```
+## Diagrama Enemic
+``` mermaid
+erDiagram
+    }
+    ENEMIC {
+        int Codi PK
+        string Nom "Not null"
+        string Tipus "Not null"
+        int Nivell "Not null"
+        int Vida
+        int Força
+        int Agilitat
+        int Carisma
+    }
+```
+## Diagrama sencer
 ``` mermaid
 erDiagram
 PERSONATJE || -- || MASCOTA : acompaña
