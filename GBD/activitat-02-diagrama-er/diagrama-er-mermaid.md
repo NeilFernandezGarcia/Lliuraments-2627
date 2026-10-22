@@ -35,6 +35,7 @@ erDiagram
         int Dany
         int Cooldown
         string Tipus "Not null"
+{
 ```
 ## Diagrama Item
 ``` mermaid
@@ -55,7 +56,6 @@ erDiagram
 ## Diagrama Enemic
 ``` mermaid
 erDiagram
-    }
     ENEMIC {
         int Codi PK
         string Nom "Not null"
