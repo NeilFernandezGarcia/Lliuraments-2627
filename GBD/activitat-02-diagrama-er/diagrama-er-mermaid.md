@@ -12,17 +12,15 @@ erDiagram
         int Agilitat
     }
 ```
+El DNI és obligatori perquè és la clau primària i serveix per identificar de manera única cada personatge. El nom no pot ser nul perquè és una dada necessària per saber com s'anomena el personatge.
+Així s'evita que hi hagi personatges sense identificació o sense nom.
 ## Diagrama Mascota
 ``` mermaid
 erDiagram
-    PERSONATJE {
-        string DNI PK
-        string Nom "Not Null"
-        string Cognom
-        int Vida
-        int Força
-        int Carisma
-        int Agilitat
+    MASCOTA {
+        string NumChip PK
+        string Nom "Not null"
+        int Motxilla
     }
 ```
 ## Diagrama Habilitat
