@@ -23,6 +23,9 @@ erDiagram
         int Motxilla
     }
 ```
+El número de xip és la clau primària perquè permet identificar de manera única cada mascota i és obligatori.
+El nom té la restricció "Not Null" perquè és una dada necessària i no pot quedar buida.
+L'atribut Motxilla indica la motxilla de la mascota i s'emmagatzema com un nombre enter.
 ## Diagrama Habilitat
 ``` mermaid
 erDiagram
@@ -35,6 +38,9 @@ erDiagram
         string Tipus "Not null"
 }
 ```
+El codi és la clau primària perquè permet identificar de manera única cada habilitat.
+El nom i el tipus tenen la restricció "Not Null" perquè són dades obligatòries i no poden quedar buides.
+La resta d'atributs indiquen el cost, el dany i el temps de reutilització de cada habilitat.
 ## Diagrama Item
 ``` mermaid
 erDiagram
@@ -51,6 +57,9 @@ erDiagram
         int Mesura-Z "Not null"
     }
 ```
+El codi és la clau primària perquè permet identificar de manera única cada ítem.
+El nom, el tipus, si és comerciable, el pes, la qualitat i les mesures són obligatoris perquè no poden quedar buits.
+La resta d'atributs indiquen si l'ítem es pot equipar i les seves característiques físiques.
 ## Diagrama Enemic
 ``` mermaid
 erDiagram
@@ -65,6 +74,9 @@ erDiagram
         int Carisma
     }
 ```
+El codi és la clau primària perquè permet identificar de manera única cada enemic.
+El nom, el tipus i el nivell són obligatoris perquè no poden quedar buits.
+La resta d'atributs indiquen les característiques de cada enemic, com la vida, la força, l'agilitat i el carisma.
 ## Diagrama sencer
 ``` mermaid
 erDiagram
